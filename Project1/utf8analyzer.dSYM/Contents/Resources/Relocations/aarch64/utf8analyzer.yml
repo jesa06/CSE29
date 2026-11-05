@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jesa_old/vscode/CSE29/Project1/utf8analyzer'
+relocations:     []
+...
